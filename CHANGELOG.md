@@ -36411,3 +36411,14 @@ package-lock.json was changed
 package.json was changed
 
 
+## 1.0.4
+
+### Files added: 0
+
+### Files changed: 2
+
+.github/workflows/check-dist.yml was changed
+
+.github/workflows/ci.yml was changed
+
+
