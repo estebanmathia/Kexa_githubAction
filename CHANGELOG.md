@@ -36744,3 +36744,36 @@ package.json was changed
 CHANGELOG.md was changed
 
 
+## 1.1.4
+
+### Files added: 5
+
+.github/ISSUE_TEMPLATE/bug_report.md was added
+
+.github/ISSUE_TEMPLATE/feature_request.md was added
+
+CODE_OF_CONDUCT.md was added
+
+CONTRIBUTING.md was added
+
+SECURITY.md was added
+
+### Files changed: 8
+
+.github/ISSUE_TEMPLATE/bug_report.md was changed
+
+.github/ISSUE_TEMPLATE/feature_request.md was changed
+
+CODE_OF_CONDUCT.md was changed
+
+CONTRIBUTING.md was changed
+
+SECURITY.md was changed
+
+CHANGELOG.md was changed
+
+VERSION was changed
+
+package.json was changed
+
+
