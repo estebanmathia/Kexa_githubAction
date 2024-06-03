@@ -68459,3 +68459,18 @@ VERSION was changed
 package.json was changed
 
 
+## 1.2.13
+
+### Files added: 0
+
+### Files changed: 4
+
+lib/main.js was changed
+
+lib/services/addOn.service.js was changed
+
+lib/services/addOn/awsGathering.service.js was changed
+
+src/services/addOn/awsGathering.service.ts was changed
+
+
